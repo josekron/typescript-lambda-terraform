@@ -1,0 +1,8 @@
+.idea/
+lambda/src/*.js
+lambda/node_modules
+lambda/dist
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/tfplan
+terraform/zips/
